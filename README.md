@@ -8,7 +8,7 @@ This Nanodegree teaches us the foundation of deep learning. Please click [here](
 * Project 2: [P2 Convolutional Neural Network Image Classification](https://github.com/Ruofei29/Udactiy-Deep-Learning-Nanodegree/tree/master/P2%20Convolutional%20Neural%20Network%20Image%20Classification)
 * Project 3: [P3 Recurrent Neural Network Language Translation](https://github.com/Ruofei29/Udactiy-Deep-Learning-Nanodegree/tree/master/P3%20Recurrent%20Neural%20Network%20Language%20Translation)
 * Project 4: [P4 Recurrent Neural Network TV Scripts Generation](https://github.com/Ruofei29/Udactiy-Deep-Learning-Nanodegree/tree/master/P4%20Recurrent%20Neural%20Network%20TV%20Scripts%20Generation)
-* Project 5: []()
+* Project 5: [P5 Face Generation](https://github.com/Ruofei29/Udactiy-Deep-Learning-Nanodegree/tree/master/P5%20Face%20Generation)
 
 ## Skills Acquired
 * Tensorflow
