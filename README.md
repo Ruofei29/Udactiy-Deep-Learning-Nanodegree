@@ -21,3 +21,5 @@ This Nanodegree teaches us the foundation of deep learning. Please click [here](
 * Recurrent Neural Networks
 * Generative Adversarial Networks
 
+## Certificate
+Successfully completed this Nanodegree on May 24, 2017, see the [certificate](https://drive.google.com/file/d/0B1_9KVZI9SLVQ0oxeDlQaVpvMnc/view?usp=sharing)
