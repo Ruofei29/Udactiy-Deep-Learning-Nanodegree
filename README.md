@@ -1,5 +1,7 @@
 # Udactiy-Deep-Learning-Nanodegree
 
+Successfully completed this Nanodegree on May 24, 2017, see the [certificate](https://drive.google.com/file/d/0B1_9KVZI9SLVQ0oxeDlQaVpvMnc/view?usp=sharing)
+
 ## Nanodegree Overview
 This Nanodegree teaches us the foundation of deep learning. Please click [here](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) for more info about the Nanodegree.
 
@@ -20,6 +22,3 @@ This Nanodegree teaches us the foundation of deep learning. Please click [here](
 * Convolutional Neural Networks
 * Recurrent Neural Networks
 * Generative Adversarial Networks
-
-## Certificate
-Successfully completed this Nanodegree on May 24, 2017, see the [certificate](https://drive.google.com/file/d/0B1_9KVZI9SLVQ0oxeDlQaVpvMnc/view?usp=sharing)
